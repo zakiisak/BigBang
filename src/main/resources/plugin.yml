@@ -1,0 +1,6 @@
+name: BigBang
+version: '${project.version}'
+main: com.icurety.bigbang.BigBang
+api-version: 1.18
+authors: [ Zakiisak ]
+description: Don't try breaking a block. You'll regret it
